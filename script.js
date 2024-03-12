@@ -1,11 +1,11 @@
-document.addEventListener('DOMContentLoaded', function() {
+
 const levelElement = document.getElementById("level")
 const gameGrid = document.getElementById("gameGrid")
 const message = document.getElementById("message")
 console.log(gameGrid)
 console.log(message)
 console.log(levelElement)
-});
+
 
 let cards = []
 let cardValues = []
